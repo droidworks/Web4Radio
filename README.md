@@ -93,7 +93,7 @@ FAQ
 
 - How can I customize the player's apperence?
 
- Override the CSS of the jPlayer [Blue Monday](http://jplayer.org/latest/jPlayer.Blue.Monday.2.4.0.zip) skin. 
+ Override the CSS of the jPlayer [Blue Monday](http://jplayer.org/latest/jPlayer.Blue.Monday.2.4.0.zip) skin.
 
 - I tried to get jPlayer working with SHOUTcast, but couldn't. What did you do differently?
 
@@ -103,7 +103,7 @@ FAQ
 
 - Where are the volume controls?
 
- On mobile devices, the volume is controlled via the device's phyisical controls. 
+ On mobile devices, the volume is controlled via the device's physical controls. 
 
 Support
 ----------
